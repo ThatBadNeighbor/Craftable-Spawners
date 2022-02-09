@@ -28,6 +28,6 @@ This project is NOT finished. I am working to add more spawn eggs in the future.
 
 Programs used:
 
-Crafting
+https://mcstacker.net/versions.php
 
-MCStacker
+https://crafting.thedestruc7i0n.ca
