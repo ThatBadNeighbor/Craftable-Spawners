@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "FGF",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cobweb"
+        },
+        "F": {
+            "item": "minecraft:fermented_spider_eye"
+        },
+        "G": {
+            "item": "minecraft:ghast_tear"
+        }
+    },
+    "result": {
+        "item": "minecraft:cave_spider_spawn_egg",
+        "count": 1
+    }
+}

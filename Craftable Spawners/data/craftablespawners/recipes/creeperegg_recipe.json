@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "TPT",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:kelp"
+        },
+        "T": {
+            "item": "minecraft:tnt"
+        },
+        "P": {
+            "item": "minecraft:pig_spawn_egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:creeper_spawn_egg",
+        "count": 1
+    }
+}

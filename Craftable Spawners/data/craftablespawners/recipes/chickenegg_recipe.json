@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "CAC",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:egg"
+        },
+        "C": {
+            "item": "minecraft:cooked_chicken"
+        },
+        "A": {
+            "item": "minecraft:arrow"
+        }
+    },
+    "result": {
+        "item": "minecraft:chicken_spawn_egg",
+        "count": 1
+    }
+}
